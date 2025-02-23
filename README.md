@@ -40,7 +40,7 @@ The project is organized into several ROS2 packages, each with specific function
 1. **Create a ROS2 workspace** 
 2. **Clone the repository:**
 ```bash
-git clone https://github.com/bog134/Tezeusz-Bot.git
+git clone https://github.com/Tomasz-Gawronski/Tezeusz-Bot.git
 ```
 3. **Copy files and folders from Tezeusz-Bot folder to `src` folder** 
 3. **Install necessary dependencies**
